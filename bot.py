@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Lấy token từ file .env
-DISCORD_TOKEN = os.getenv('MTM2MzE1NjY1NjYwNjgxMDI5Mw.GQGx1v.v1E0SUfGEovBAXu2geBnBRg5_WZCjj2UHRtuis')
+DISCORD_TOKEN = os.getenv('MTM2MzE1NjY1NjYwNjgxMDI5Mw.GuwTJH.PI79Eg6cZQS3AcokBtz4cVZgHAwgLwgEb9sLsw')
 OPENAI_API_KEY = os.getenv('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')
 
 # Thiết lập OpenAI API
